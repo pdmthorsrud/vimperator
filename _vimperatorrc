@@ -1,0 +1,12 @@
+set hintchars=asdfghjkl
+noremap l gt
+noremap h gT
+set complete=l
+set noerrorbells
+set! javascript.options.jit.chrome=true
+set! browser.tabs.onTop=false
+set! browser.fullscreen.animate=true
+set gui=tabs
+set gui=nonavigation
+set gui=nomenu
+set gui=nobookmarks
