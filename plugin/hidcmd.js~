@@ -27,6 +27,4 @@ function toggle_bottombar(p){
 	bb.style.height = (bb.style.height == '') ? '0px' : '';
 	bb.style.overflow = (bb.style.height == '') ? '' : 'hidden';
 }
-toggle_bottombar();
-EOF
 
