@@ -6,7 +6,7 @@ set noerrorbells
 set! javascript.options.jit.chrome=true
 set! browser.tabs.onTop=false
 set! browser.fullscreen.animate=true
-set gui=tabs
+set gui=notabs
 set gui=nonavigation
 set gui=nomenu
 set gui=nobookmarks
