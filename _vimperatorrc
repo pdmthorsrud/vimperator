@@ -6,10 +6,10 @@ set noerrorbells
 set! javascript.options.jit.chrome=true
 set! browser.tabs.onTop=false
 set! browser.fullscreen.animate=true
-set gui=notabs
+set gui=tabs
+set gui=bookmarks
 set gui=nonavigation
 set gui=nomenu
-set gui=nobookmarks
 set tabnumbers
 colorscheme molokai
 inoremap <C-a> <Insert><C-a><Insert>
