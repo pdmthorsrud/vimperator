@@ -1,8 +1,7 @@
 set hintchars=asdfghjkl
 noremap l gt
 noremap h gT
-noremap j 3j
-noremap k 3k
+noremap ø t<CR>:downloads<CR>
 set complete=l
 set noerrorbells
 set! javascript.options.jit.chrome=true
