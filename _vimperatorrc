@@ -14,5 +14,6 @@ set gui=nomenu
 " set tabnumbers
 colorscheme molokai
 inoremap <C-a> <Insert><C-a><Insert>
+highlight Hint font-size:14px;background-color:black;color:white;padding:3px
 
 set passthrough = true
