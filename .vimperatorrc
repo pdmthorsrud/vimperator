@@ -1,0 +1,19 @@
+set hintchars=asdfghjkl
+noremap l gt
+noremap h gT
+noremap ø t<CR>:downloads<CR>
+set complete=l
+set noerrorbells
+set! javascript.options.jit.chrome=true
+set! browser.tabs.onTop=false
+set! browser.fullscreen.animate=true
+set gui=tabs
+set gui=bookmarks
+set gui=nonavigation
+set gui=nomenu
+" set tabnumbers
+colorscheme molokai
+inoremap <C-a> <Insert><C-a><Insert>
+highlight Hint font-size:14px;background-color:black;color:white;padding:3px
+
+set passthrough = true
